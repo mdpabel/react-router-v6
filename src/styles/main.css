@@ -1,0 +1,19 @@
+i.fas.fa-angle-left {
+  position: absolute;
+  z-index: 4;
+  color: #fff;
+  font-size: 3rem;
+  top: 50%;
+  left: 1rem;
+  cursor: pointer;
+}
+
+i.fas.fa-angle-right {
+  position: absolute;
+  z-index: 4;
+  color: #fff;
+  font-size: 3rem;
+  top: 50%;
+  right: 1rem;
+  cursor: pointer;
+}
